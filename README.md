@@ -1,4 +1,4 @@
-#About
+# About
 Cinema Web Application for booking tickets. 
 The Web app handles user registration, seat reservations, Emailing Users their tickers, QR Codes for ticket verification.
 
